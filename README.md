@@ -1,5 +1,5 @@
 # Hello, I'm Cameron
-<a href="https://https://www.linkedin.com/in/cameron-devenport-4b2599196/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/cameron-devenport-4b2599196/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 
 I'm a recent Computer Science graduate with a deep fascination for technology and enthusiasm for problem-solving. I enjoy exploring how systems work, building practical solutions, and continuously learning new tools and techniques to grow as a developer. 
