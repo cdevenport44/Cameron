@@ -84,5 +84,5 @@ My journey in Computer Science has fueled my passion for **software engineering*
 </div>
 
 ## Projects
-- Calculator
+- <a href="https://github.com/cdevenport44/dev-journey/tree/main/GUI%20Calculator">GUI Calculator</a>
 - QR Generator
